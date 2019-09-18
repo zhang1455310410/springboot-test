@@ -17,6 +17,6 @@ public class TestController {
     @RequestMapping("toTry")
     @ResponseBody
     public  String toTry(){
-        return  "enheng";
+        return  "你好呀";
     }
 }
